@@ -16,7 +16,7 @@ Clone or download the repository to your local machine.
 
 Open the project in your favorite Java IDE.
 
-Run the MainApp class to launch the Task Manager application.
+Run the ApplicationDriver class to launch the Task Manager application.
 
 Use the interface to add, manage, and organize your tasks.
 
